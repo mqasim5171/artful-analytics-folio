@@ -9,7 +9,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
       tech: ["React", "TypeScript", "Chart.js", "Tailwind"],
       liveLink: "https://ecommerce-dashboard-demo.vercel.app",
-      githubLink: "https://github.com/sarah/ecommerce-dashboard",
+      githubLink: "https://github.com/eshemafzal/ecommerce-dashboard",
     },
     {
       title: "Brand Identity Design",
@@ -27,7 +27,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
       tech: ["Python", "D3.js", "Tableau", "SQL"],
       liveLink: "https://data-viz-tool.herokuapp.com",
-      githubLink: "https://github.com/sarah/data-viz-tool",
+      githubLink: "https://github.com/eshemafzal/data-viz-tool",
     },
     {
       title: "Portfolio Website",
@@ -36,7 +36,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=600&h=400&fit=crop",
       tech: ["React", "Framer Motion", "SCSS"],
       liveLink: "https://creative-portfolio.netlify.app",
-      githubLink: "https://github.com/sarah/portfolio-site",
+      githubLink: "https://github.com/eshemafzal/portfolio-site",
     },
     {
       title: "Mobile App UI Design",
@@ -54,7 +54,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
       tech: ["React", "Python", "PostgreSQL", "Chart.js"],
       liveLink: "https://marketing-dashboard.vercel.app",
-      githubLink: "https://github.com/sarah/marketing-dashboard",
+      githubLink: "https://github.com/eshemafzal/marketing-dashboard",
     },
   ];
 

@@ -9,8 +9,8 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "sarah.developer@email.com",
-      link: "mailto:sarah.developer@email.com"
+      value: "eshemafzal@gmail.com",
+      link: "mailto:eshemafzal@gmail.com"
     },
     {
       icon: Phone,
@@ -36,8 +36,8 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      url: "https://linkedin.com/in/sarah-developer",
-      username: "Sarah Developer"
+      url: "https://www.linkedin.com/in/eshemafzal/",
+      username: "Esham Afzal"
     },
     {
       icon: Instagram,

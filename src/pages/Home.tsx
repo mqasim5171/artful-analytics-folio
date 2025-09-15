@@ -41,7 +41,7 @@ const Home = () => {
         <div className="relative z-10 container mx-auto px-6 text-center">
           <div className="animate-fade-up">
             <h1 className="text-5xl md:text-7xl font-serif font-semibold mb-6">
-              Hi, I'm <span className="text-gradient">Sarah</span>
+              Hi, I'm <span className="text-gradient">Esham</span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
               A passionate developer & designer creating beautiful digital experiences 
@@ -199,19 +199,19 @@ const Home = () => {
               {
                 name: "Emily Johnson",
                 role: "CEO, TechStart Inc.",
-                content: "Sarah's attention to detail and creative vision transformed our brand completely. The website she designed exceeded all our expectations.",
+                content: "Esham's attention to detail and creative vision transformed our brand completely. The website she designed exceeded all our expectations.",
                 rating: 5
               },
               {
                 name: "Michael Chen",
                 role: "Marketing Director",
-                content: "The data analytics dashboard Sarah built has revolutionized how we track our campaigns. Incredible work and seamless collaboration.",
+                content: "The data analytics dashboard Esham built has revolutionized how we track our campaigns. Incredible work and seamless collaboration.",
                 rating: 5
               },
               {
                 name: "Lisa Rodriguez",
                 role: "Founder, Creative Studio",
-                content: "Working with Sarah was a dream. She understood our vision perfectly and delivered a stunning design that our customers absolutely love.",
+                content: "Working with Esham was a dream. She understood our vision perfectly and delivered a stunning design that our customers absolutely love.",
                 rating: 5
               }
             ].map((testimonial, index) => (

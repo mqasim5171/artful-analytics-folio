@@ -33,7 +33,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link to="/" className="text-2xl font-serif font-semibold text-gradient">
-            Sarah
+            Esham
           </Link>
 
           {/* Desktop Navigation */}
