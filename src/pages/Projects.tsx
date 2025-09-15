@@ -56,6 +56,63 @@ const Projects = () => {
       liveLink: "https://marketing-dashboard.vercel.app",
       githubLink: "https://github.com/eshemafzal/marketing-dashboard",
     },
+    
+  {
+    title: "AI-Powered Chatbot",
+    category: "Web Development / AI",
+    description: "A chatbot enhanced with AI capabilities, designed to understand user inputs and respond intelligently. Incorporated machine learning/LLM backend with real-time interaction.",
+    image: "https://via.placeholder.com/600x400?text=AI+Chatbot",
+    tech: ["JavaScript", "Node.js", "Express", "OpenAI API"],
+    liveLink: null,
+    githubLink: "https://github.com/EshamAfzal/AI-powered-chatbot",
+  },
+  {
+    title: "Bookstore Frontend",
+    category: "Frontend Web App",
+    description: "User-interface for a bookstore application: browsing books, searching, filtering, responsive design, maybe cart functionality.",
+    image: "https://via.placeholder.com/600x400?text=Bookstore+Frontend",
+    tech: ["React", "CSS", "HTML", "JavaScript"],
+    liveLink: null,
+    githubLink: "https://github.com/EshamAfzal/bookstore-frontend",
+  },
+  {
+    title: "Portfolio Website",
+    category: "Web Design / Personal",
+    description: "A personal portfolio site showcasing projects, skills, contact info, possibly responsive and modern animations.",
+    image: "https://via.placeholder.com/600x400?text=Portfolio",
+    tech: ["HTML", "CSS", "JavaScript"],
+    liveLink: "https://eshamafzal.github.io/portfolio",
+    githubLink: "https://github.com/EshamAfzal/portfolio",
+  },
+  {
+    title: "Emotion-Based Web Application (with DevOps)",
+    category: "Full Stack / DevOps",
+    description: "Web app to detect user emotions integrated with a CI/CD & DevOps pipeline to ensure quality, automated tests, and deployment.",
+    image: "https://via.placeholder.com/600x400?text=Emotion+Web+App",
+    tech: ["JavaScript", "Node.js", "ML model", "Docker", "GitHub Actions"],
+    liveLink: null,
+    githubLink: "https://github.com/EshamAfzal/emotion-based-web-application-integrating-with-devops",
+  },
+  {
+    title: "Software Engineering Project",
+    category: "Academic / Course Project",
+    description: "Project for software engineering course: likely involves requirement analysis, design, and implementation of a system per specification.",
+    image: "https://via.placeholder.com/600x400?text=Software+Engineering+Project",
+    tech: ["Java", "Software Design", "Documentation", "Version Control"],
+    liveLink: null,
+    githubLink: "https://github.com/EshamAfzal/Software-eng-project",
+  },
+  {
+    title: "Arcturus Services Website",
+    category: "Web Development / Client Project",
+    description: "A full-fledged website for Arcturus Services, showcasing their professional services, contact info, and team. Built with a focus on modern UI/UX and responsive design.",
+    image: "https://via.placeholder.com/600x400?text=Arcturus+Services",
+    tech: ["HTML", "CSS", "react" ,"tailwind"," fast api", "Responsive Design"], // update if React/Next.js etc. used
+    liveLink: "https://arcturusservices.com.au/",
+    githubLink: null
+  },
+
+
   ];
 
   const categories = ["All", "Web Development", "Web Design", "Graphic Design", "Data Analytics", "UI/UX Design"];
